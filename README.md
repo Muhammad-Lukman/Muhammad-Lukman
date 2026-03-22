@@ -1,6 +1,6 @@
-# Hi there, I'm Muhammad Lukman 👋
+# Hi there, I'm Muhammad Lukman
 
-## 💫 About Me:
+## About Me:
 **Microbiologist & Data Scientist** bridging clinical diagnostics, statistical analysis, and computational biology. I build ML/DL models on biological data — from MALDI-TOF spectra to whole-genome pangenomes.
 
 BS Microbiology (CGPA 3.89/4.00), University of Agriculture Faisalabad · Seeking Masters but can also think for PhD (if offered) at the intersection of ML and life sciences.
