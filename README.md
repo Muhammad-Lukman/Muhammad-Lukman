@@ -1,14 +1,14 @@
 # Hi there, I'm Muhammad Lukman
 
 ## About Me:
-**Microbiologist & Data Scientist** bridging clinical diagnostics, statistical analysis, and computational biology. I build ML/DL models on biological data — from MALDI-TOF spectra to whole-genome pangenomes.
+**Microbiologist & Data Scientist** bridging clinical diagnostics, statistical analysis, and computational biology. I build ML/DL models on biological data - from MALDI-TOF spectra to whole-genome pangenomes.
 
 BS Microbiology (CGPA 3.89/4.00), University of Agriculture Faisalabad · Seeking Masters but can also think for PhD (if offered) at the intersection of ML and life sciences.
 
 ---
 
 🔭 **I'm currently working on:**
-Pangenome-wide AMR gene discovery in *E. coli* using XGBoost & SHAP — manuscript in preparation. Also exploring FCGR-based CNN architectures for genomic AMR classification.
+Pangenome-wide AMR gene discovery in *E. coli* using XGBoost & SHAP - manuscript in preparation. Also exploring FCGR-based CNN architectures for genomic AMR classification.
 
 👯 **I'm looking to collaborate on:**
 ML/DL for AMR & genomics · Computational drug discovery · Infectious disease epidemiology · Clinical metagenomics · One Health AMR surveillance
