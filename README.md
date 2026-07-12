@@ -72,10 +72,11 @@ I've gone from running haematology, microbiology and chemistry diagnostics on  M
 ![Muhammad-Lukman's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Muhammad-Lukman&theme=dark&layout=compact)
 -->
 ![Muhammad-Lukman's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Muhammad-Lukman&theme=dark&langs_count=8)
-![Muhammad-Lukman's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Lukman&theme=radical)
 ---
 
 ## Trophies & Milestones
+![Muhammad-Lukman's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Lukman&theme=radical)
+
 ![Muhammad-Lukman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Lukman&theme=react-dark&bg_color=0d1117&hide_border=true)
 
 <!-- The profile-summary-cards backend is currently down; commented out below until restored -->
