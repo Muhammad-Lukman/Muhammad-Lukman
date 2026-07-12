@@ -67,11 +67,11 @@ I've gone from running haematology, microbiology and chemistry diagnostics on  M
 
 ## GitHub Stats:
 ![Muhammad-Lukman's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Muhammad-Lukman&theme=dark&show_icons=true)
-
 ![Muhammad-Lukman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Lukman&theme=dark)
-
+<!-- 
 ![Muhammad-Lukman's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Muhammad-Lukman&theme=dark&layout=compact)
-
+-->
+![Muhammad-Lukman's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Muhammad-Lukman&theme=dark&langs_count=8)
 ---
 
 ## GitHub Trophies
