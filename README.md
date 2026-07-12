@@ -65,16 +65,22 @@ I've gone from running haematology, microbiology and chemistry diagnostics on  M
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Lukman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Lukman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Lukman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## GitHub Stats:
+![Muhammad-Lukman's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Muhammad-Lukman&theme=dark&show_icons=true)
+
+![Muhammad-Lukman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Lukman&theme=dark)
+
+![Muhammad-Lukman's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Muhammad-Lukman&theme=dark&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muhammad-Lukman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## GitHub Trophies
+![Muhammad-Lukman's Trophies](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Lukman&theme=radical)
 
+<!-- The profile-summary-cards backend is currently down; commented out below until restored -->
+<!-- 
+![Muhammad-Lukman's Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Lukman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+-->
 ---
 
 ### ✍️ Random Dev Quote
