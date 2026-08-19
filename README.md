@@ -1,9 +1,25 @@
 # Hi there, I'm Muhammad Lukman
 
-## About Me:
-**Microbiologist & Data Scientist** bridging clinical diagnostics, statistical analysis, and computational biology. I build ML/DL models on biological data - from MALDI-TOF spectra to whole-genome pangenomes.
+**Microbiologist building machine-learning tools for antimicrobial-resistance genomics, clinical diagnostics, and public-health analytics** | Python, Bioinformatics | Open to MS and PhD research opportunities
 
-BS Microbiology (CGPA 3.89/4.00), University of Agriculture Faisalabad · Seeking Masters but can also think for PhD (if offered) at the intersection of ML and life sciences.
+## About Me:
+
+**Microbiologist and independent computational biology researcher** bridging clinical diagnostics, statistical analysis, and computational biology. I reproduce, validate, and extend published AMR prediction frameworks, and I build ML/DL pipelines on biological data, from MALDI-TOF mass spectra and SNP matrices to whole-genome pangenomes.
+
+BSc (Hons) Microbiology, CGPA 3.89/4.00, University of Agriculture Faisalabad. Certified in Epidemiology, Genomic Data Science, and Health Research Grant Writing (Johns Hopkins, UC San Diego, UC Santa Cruz, Imperial College London, University of Colorado). Seeking Masters but can also think for PhD (if offered) at the intersection of ML and life sciences.
+
+---
+
+## Selected Research
+
+| Project | Approach | Outcome |
+|---|---|---|
+| [Pangenome-Wide AMR Discovery in E. coli](https://github.com/Muhammad-Lukman/Discovery-of-Novel-AMR-Determinants-in-E.coli-Through-Machine-Learning ) | XGBoost + SHAP on 1,089 clinical isolates, 44,957 pangenome genes | Novel genes-only model F1 0.880 vs baseline 0.758 (ciprofloxacin); AUROC 0.862 to 0.981; 55 candidate genes identified |
+| [MSDeepAMR Recreation and Enhancement](https://github.com/Muhammad-Lukman/MSDeepAMR_Recreation_Enhancement_project ) | 50+ DL models on MALDI-TOF spectra (DRIAMS) | AUROC 0.901 for E. coli, 3.6% above the original paper; Zenodo DOI 10.5281/zenodo.17488614 |
+| [ML-iAMR Validation and Enhancement](https://github.com/Muhammad-Lukman/Validation_of_ML-iAMR ) | CNNs on 809 isolates, 60,936 SNPs, Grad-CAM + SHAP | Exceeded published benchmarks (CIP 0.953 vs 0.90; CTX 0.862 vs 0.77) with full statistical validation |
+| [AMR Prediction with CNN via FCGR](https://github.com/Muhammad-Lukman/Predicting-antimicrobial-resistance-in-E.-coli-with-CNN-using-FCGR ) | DNA sequences encoded as 2D images for CNN classification | Resolution and architecture study for genomic AMR prediction |
+
+Additional work: COVID-19 public-health analysis, TB incidence and Punjab district mapping, facial emotion recognition with CNNs, NLP sentiment analysis.
 
 ---
 
@@ -27,7 +43,7 @@ I've gone from running haematology, microbiology and chemistry diagnostics on  M
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-lukman-790468304)
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/m-lukman.bsky.social)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dream_chaserx_x)
@@ -84,6 +100,8 @@ I've gone from running haematology, microbiology and chemistry diagnostics on  M
 ![Muhammad-Lukman's Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Lukman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 -->
 ---
+
+*Research interests: antimicrobial-resistance genomics, computational drug discovery, pangenomics, clinical metagenomics, One Health AMR surveillance, deep learning for diagnostics, infectious-disease epidemiology.*
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
