@@ -18,7 +18,6 @@
   </a>
 </p>
 
-## About Me:
 
 # Hi there, I'm Muhammad Lukman
 
