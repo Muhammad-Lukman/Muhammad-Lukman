@@ -1,12 +1,38 @@
+<p align="center">
+  <img src="https://github.com/Muhammad-Lukman/Muhammad-Lukman/blob/224fcdf7d11619bbe90acf78eddbe1a389d846c6/github_banner_final.png" alt="Muhammad Lukman banner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Lukman&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/Muhammad-Lukman?tab=repositories&language=python">
+    <img src="https://img.shields.io/badge/Python-primary-3776AB?style=flat&logo=python" alt="Python" />
+  </a>
+  <a href="https://github.com/Muhammad-Lukman?tab=repositories&language=jupyter%20notebook">
+    <img src="https://img.shields.io/badge/Jupyter-notebooks-F37626?style=flat&logo=jupyter" alt="Jupyter" />
+  </a>
+  <a href="https://orcid.org/0009-0003-9225-9959">
+    <img src="https://img.shields.io/badge/ORCID-0009--0003--9225--9959-A6CE39?style=flat&logo=orcid" alt="ORCID" />
+  </a>
+  <a href="https://zenodo.org/records/17488614">
+    <img src="https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.17488614-024D8E?style=flat&logo=zenodo" alt="Zenodo" />
+  </a>
+</p>
+
+## About Me:
+
 # Hi there, I'm Muhammad Lukman
 
 **Microbiologist building machine-learning tools for antimicrobial-resistance genomics, clinical diagnostics, and public-health analytics** | Python, Bioinformatics | Open to MS and PhD research opportunities
 
 ## About Me:
 
-**Microbiologist and independent computational biology researcher** bridging clinical diagnostics, statistical analysis, and computational biology. I reproduce, validate, and extend published AMR prediction frameworks, and I build ML/DL pipelines on biological data, from MALDI-TOF mass spectra and SNP matrices to whole-genome pangenomes.
+**Microbiologist and independent computational biology researcher** bridging clinical diagnostics, statistical analysis, and computational biology. I started in a clinical lab, running haematology, microbiology, and chemistry panels on Mindray and Cobas analysers. I kept asking the same question across every rotation: *why does this organism resist treatment, and could we have predicted it before the culture came back?*
 
-BSc (Hons) Microbiology, CGPA 3.89/4.00, University of Agriculture Faisalabad. Certified in Epidemiology, Genomic Data Science, and Health Research Grant Writing (Johns Hopkins, UC San Diego, UC Santa Cruz, Imperial College London, University of Colorado). Seeking Masters but can also think for PhD (if offered) at the intersection of ML and life sciences.
+That question is now my research agenda. I reproduce, validate, and extend published AMR prediction frameworks, and I build ML/DL pipelines on biological data, from MALDI-TOF mass spectra and SNP matrices to whole-genome pangenomes, hunting antimicrobial-resistance determinants across thousands of bacterial genomes and turning sequences into clinically useful signals. My degree says Microbiology; my GitHub says computational biology. Both are true.
+
+BSc (Hons) Microbiology, CGPA 3.89/4.00, University of Agriculture Faisalabad. Certified in Epidemiology and Genomic Data Science (Johns Hopkins), Bioinformatics (UC San Diego), Bayesian Statistics (UC Santa Cruz), and Health Research Grant Writing (University of Colorado), with infectious-disease modelling and public-health practice training from Imperial College London. Seeking MS positions at the intersection of machine learning and the life sciences, and open to PhD opportunities.
+
+> I independently reproduce published AMR prediction research, beat the reported benchmarks, and document what does not work as rigorously as what does.
 
 ---
 
@@ -23,32 +49,38 @@ Additional work: COVID-19 public-health analysis, TB incidence and Punjab distri
 
 ---
 
-🔭 **I'm currently working on:**
-Pangenome-wide AMR gene discovery in *E. coli* using XGBoost & SHAP - manuscript in preparation. Also exploring FCGR-based CNN architectures for genomic AMR classification.
+## Research philosophy
 
-👯 **I'm looking to collaborate on:**
-ML/DL for AMR & genomics · Computational drug discovery · Infectious disease epidemiology · Clinical metagenomics · One Health AMR surveillance
+Every repository on my profile treats three things as non-negotiable: **reproducibility** (run the pipeline yourself; everything is documented), **interpretability** (SHAP, Grad-CAM, and SHAP-like lenses on every model, because a black-box AMR predictor is useless to a clinician), and **honesty about negatives** (class weights, focal loss, and SMOTE made my MSDeepAMR models worse, and that result is written down because someone else will need it).
 
-🤔 **I'm looking for help with:**
-Large-scale bioinformatics pipeline deployment · Cloud/HPC computing for genomic workflows
+I also found the dataset size threshold where deep learning finally earns its complexity over gradient boosting (~3,000 samples, R² > 0.95) and the cost argument for better thresholds (an F2-optimal cutoff cutting *K. pneumoniae* false negatives by 51.2%). Details are in the repositories, not in adjectives.
 
-🌱 **I'm currently learning:**
-Advanced bioinformatics pipelines · Cloud/HPC computing · Generative models for biological sequences
+## Beyond AMR
 
-💬 **Ask me about:**
-XGBoost/SHAP for genomics · CNNs + GradCAM · MALDI-TOF data analysis · Pangenomics · Biostatistics · Clinical diagnostics · Python/R · Data visualization for public health
+My public-health work includes statistical analysis and publication-quality visualisation for two peer-reviewed studies in *Healthcare* (2026) and Akademiai Kiado (2026), plus epidemic modelling training from Imperial College London and Institut Pasteur. The computer vision and NLP projects on this profile were deliberate skill-builders for the interpretability work (Grad-CAM, transfer learning) rather than their own destination.
 
-⚡ **Fun fact:**
-I've gone from running haematology, microbiology and chemistry diagnostics on  Mindray, AVE & Cobas analyzers to training 50+ deep learning models on bacterial genomes — and somehow both feel like the same curiosity.
+## Credentials
 
----
+- BSc (Hons) Microbiology, University of Agriculture Faisalabad, CGPA 3.89/4.00 (1st position, 4th semester; 2nd position, 7th semester)
+- Specializations and courses: Johns Hopkins (Genomic Data Science; Epidemiology), UC San Diego (Bioinformatics), UC Santa Cruz (Bayesian Statistics), Imperial College London (Infectious Disease Modelling; Public Health Practice), University of Colorado (Health Research Grant Writing), Institut Pasteur & GRAPH (SEIR modelling)
+- Certified Member, American Society for Microbiology (ASM)
 
 ## 🌐 Connect:
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-lukman-790468304)
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/m-lukman.bsky.social)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dream_chaserx_x)
 [![Zenodo](https://img.shields.io/badge/Zenodo-024D8E?logo=zenodo&logoColor=white)](https://zenodo.org/records/17488614)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dr.mlukmanuaf@gmail.com)
+-->
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-lukman-790468304"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://orcid.org/0009-0003-9225-9959"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://zenodo.org/records/17488614"><img src="https://img.shields.io/badge/Zenodo-024D8E?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo" /></a>
+  <a href="mailto:dr.mlukmanuaf@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://bsky.app/profile/m-lukman.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
+</p>
 
 ---
 
@@ -101,11 +133,10 @@ I've gone from running haematology, microbiology and chemistry diagnostics on  M
 -->
 ---
 
-*Research interests: antimicrobial-resistance genomics, computational drug discovery, pangenomics, clinical metagenomics, One Health AMR surveillance, deep learning for diagnostics, infectious-disease epidemiology.*
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Muhammad-Lukman&icon=0&color=0)](https://visitcount.itsvg.in)
 
+*Research interests: antimicrobial-resistance genomics, computational drug discovery, pangenomics, clinical metagenomics, One Health AMR surveillance, deep learning for diagnostics, infectious-disease epidemiology.*
